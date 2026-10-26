@@ -74,7 +74,7 @@ I'm a full-stack software engineer with **2+ years of professional experience** 
 
 ---
 
-### 🚀 Featured Work · PentaDev Projects
+### 🚀 Featured Work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -82,9 +82,9 @@ I'm a full-stack software engineer with **2+ years of professional experience** 
 | **[FandomVerse](https://github.com/Imran0316/Fandom-Verse)** | Fandom community app with events on a map, reels, anime DeepDives, an AI chatbot, merch store and admin panel | Flutter · Firebase · Cloud Functions · Google Maps |
 | **[WatchHub](https://github.com/Imran0316/EprojectWatchHub)** | Luxury watch e-commerce app with cart, checkout, wishlist, reviews, news & promotions and an admin panel with sales analytics | Flutter · Firebase |
 | **[DVD Store](https://github.com/Imran0316/DvdStore)** | Online DVD store web application with catalogue and ordering | C# · ASP.NET |
-| **[PawFect Care](https://github.com/Imran0316/PetCare)** | Pet care app built for the TechWiz competition | Flutter |
+| **[PetCare](https://github.com/Imran0316/PetCare)** | Pet care app built for the TechWiz competition | Flutter |
 
-> All built at **PentaDev**, the software studio I co-founded with [@Imran0316](https://github.com/Imran0316).
+> Built together with my co-founder [@Imran0316](https://github.com/Imran0316) at PentaDev.
 
 ---
 
