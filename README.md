@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Qasim+Aleem+%F0%9F%91%8B;Full-Stack+Software+Engineer;.NET+%7C+MERN+%7C+Flutter+%7C+Laravel;Building+AI-powered+products" alt="Typing intro" />
+<h1>Hi, I'm Qasim Aleem 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;.NET+%7C+MERN+%7C+Flutter+%7C+Laravel;Turning+ideas+into+production+software" alt="Full-Stack Software Engineer" />
 
 **Software Engineer @ Al Moiz Software · Co-founder @ PentaDev · Karachi, Pakistan 🇵🇰**
 
-<a href="https://www.linkedin.com/in/qasimaleem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/qasimaleem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" /></a>
 <a href="mailto:qasimaleem950@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://aidataanalystpro.co.uk"><img src="https://img.shields.io/badge/AI%20Data%20Analyst%20Pro-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/qasimaleem/"><img src="https://img.shields.io/badge/Open%20to%20Work-2EA043?style=for-the-badge&logo=handshake&logoColor=white" /></a>
 
 </div>
 
