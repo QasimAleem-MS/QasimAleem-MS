@@ -78,6 +78,15 @@ I'm a full-stack software engineer with **2+ years of professional experience** 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[CollabSphere](https://collab-sphere-flax.vercel.app)** | AI-powered developer collaboration hub: GitHub sign-in, AI commit and repo summaries, team chats, DMs, voice/video calls and a personal AI assistant | Flutter · Firebase · GitHub API · Vercel |
+| **[FandomVerse](https://github.com/Imran0316/Fandom-Verse)** | Fandom community app with events on a map, reels, anime DeepDives, an AI chatbot, merch store and admin panel | Flutter · Firebase · Cloud Functions · Google Maps |
+| **[WatchHub](https://github.com/Imran0316/EprojectWatchHub)** | Luxury watch e-commerce app with cart, checkout, wishlist, reviews, news & promotions and an admin panel with sales analytics | Flutter · Firebase |
+| **[DVD Store](https://github.com/Imran0316/DvdStore)** | Online DVD store web application with catalogue and ordering | C# · ASP.NET |
+| **[PetCare](https://github.com/Imran0316/PetCare)** | Pet care app built for the TechWiz competition | Flutter |
+
+> Built together with my co-founder [@Imran0316](https://github.com/Imran0316) at PentaDev.
+
+--- | --- | --- |
 | **[AI Data Analyst Pro](https://aidataanalystpro.co.uk)** | AI SaaS that lets anyone upload data and ask questions in plain English or Roman Urdu | AI · Full-stack web |
 | **PentaDev** | Software studio I co-founded, delivering web, mobile and business apps for clients | MERN · .NET · Flutter · Laravel |
 | **Business software @ Al Moiz** | Production web applications and APIs for business clients | C# · ASP.NET Core · EF · SQL Server |
