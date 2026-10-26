@@ -86,11 +86,6 @@ I'm a full-stack software engineer with **2+ years of professional experience** 
 
 > All built at **PentaDev**, the software studio I co-founded with [@Imran0316](https://github.com/Imran0316).
 
---- | --- | --- |
-| **[AI Data Analyst Pro](https://aidataanalystpro.co.uk)** | AI SaaS that lets anyone upload data and ask questions in plain English or Roman Urdu | AI · Full-stack web |
-| **PentaDev** | Software studio I co-founded, delivering web, mobile and business apps for clients | MERN · .NET · Flutter · Laravel |
-| **Business software @ Al Moiz** | Production web applications and APIs for business clients | C# · ASP.NET Core · EF · SQL Server |
-
 ---
 
 ### 📫 Let's Connect
